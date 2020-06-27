@@ -1,5 +1,5 @@
 package Main;
-
+// xu ly 2D
 public class Program {
 
 	public static void main(String[] args) {
