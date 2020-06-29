@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/DHMT/nbproject/private/
+/DHMT/build/
+/DA/nbproject/private/
+/DA/build/
+/Dino/nbproject/private/
+/Dino/build/
+/chay/nbproject/private/
