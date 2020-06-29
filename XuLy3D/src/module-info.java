@@ -1,2 +1,0 @@
-module XuLy3D {
-}
