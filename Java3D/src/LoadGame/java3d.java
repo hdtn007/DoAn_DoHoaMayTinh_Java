@@ -4,7 +4,6 @@ import java.awt.image.BufferStrategy;
 import java.awt.image.ImageProducer;
 import java.io.File;
 import java.util.Random;
-
 import com.sun.j3d.loaders.Scene;
 import com.sun.j3d.loaders.objectfile.ObjectFile;
 

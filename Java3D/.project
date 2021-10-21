@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>thuyen.fbx</name>
+			<type>1</type>
+			<location>C:/Users/Ngoan/Downloads/thuyen.fbx</location>
+		</link>
+	</linkedResources>
 </projectDescription>
